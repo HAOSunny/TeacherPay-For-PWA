@@ -1,0 +1,5 @@
+{
+  "name": "TeacherPay - Payroll Calculator",
+  "description": "A professional salary settlement system for teachers allowing calculation of monthly wages based on rank, base salary, position salary, and trial class performance.",
+  "requestFramePermissions": []
+}
